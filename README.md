@@ -12,8 +12,8 @@ Este projeto é um gerenciador de lista de tarefas simples, criado para praticar
 
 ## Cronograma de Desenvolvimento                        
 Planejamento: Estruturar o projeto e criar README 
-Implementação do modelo: Criar a classe `Task`              
-Gerenciamento das tarefas: Implementar a classe `TaskManager` 
+Implementação do modelo: Criar a classe `Tarefa`              
+Gerenciamento das tarefas: Implementar a classe `GerenciadorTarefas` 
 Interface principal: Criar o arquivo `main.py`           
 Testes e refinamentos: Testar todas as funcionalidades     
 Documentação final: Atualizar README e preparar apresentação 
