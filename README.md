@@ -1,4 +1,4 @@
-# TaskListManager
+# Gerenciador de Tarefas
 
 ## Objetivo  
 Este projeto é um gerenciador de lista de tarefas simples, criado para praticar os conceitos de controle de versão, colaboração e programação orientada a objetos com Python.
