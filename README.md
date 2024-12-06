@@ -22,3 +22,15 @@ Documentação final: Atualizar README e preparar apresentação
 O projeto utiliza um fluxo baseado em branches para facilitar o desenvolvimento modular:  
 - Cada funcionalidade foi desenvolvida em uma branch específica.  
 - Após a conclusão, as branches foram mescladas na branch principal.
+
+## **Processo de Desenvolvimento**
+
+1. **Organização em Branches e Integração**
+O projeto foi dividido em várias branches para manter cada funcionalidade independente durante o desenvolvimento:  
+- **lógica_tarefas:** Implementação das funcionalidades principais de CRUD para gerenciamento de tarefas.  
+- **interface_usuario:** Desenvolvimento do menu interativo para interação com o usuário.  
+- **validações:** Adição de funções auxiliares para garantir a validação dos dados inseridos.  
+Cada branch foi trabalhada separadamente, testada e, após a conclusão, integrada à branch principal (`main`) para manter o código central sempre funcional.
+
+2. **Desafios**
+- **Falta de esperiência:** Durante o desenvolvimento, me deparei com a minha falta de experiência na área, mas depois de muitas tentativas, consegui realizar a atividade.
